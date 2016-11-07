@@ -1,0 +1,15 @@
+
+
+Annie C:
+is anyone else getting this error on 'npm start'? -- Cannot find module 'reflect-metadata'
+
+Chris B:
+try npm i -g reflect-metadata
+
+Chris B:
+then npm start
+
+Annie C:
+Thanks chris, I accidentally install angular-cli both globally and locally. I deleted the local and that took care of it
+
+--------------------------------------------------------------------------------

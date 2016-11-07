@@ -24,3 +24,9 @@ Lukas Ruebbelke, of One Hungry Mind
 
 * [Live plus Chat room](https://frontendmasters.com/live-event/angular-2-stable-live/)
 * [Livestream](https://livestream.com/accounts/4894689/events/6592257)
+
+## Video Segments
+
+### Day 1
+
+* Segmnet 1: [https://livestream.com/accounts/4894689/events/6592257/videos/141255304](https://livestream.com/accounts/4894689/events/6592257/videos/141255304)
