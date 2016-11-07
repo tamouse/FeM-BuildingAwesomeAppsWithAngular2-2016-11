@@ -12,7 +12,7 @@ Lukas Ruebbelke, of One Hungry Mind
 
 # Links
 
-* [NG-CLI app](https://github.com/angular/angular-cli)
+* [NG-CLI app](https://github.com/angular/angular-cli) - install first
 * [Class Project](https://github.com/onehungrymind/ng2-rest-app)
 
 # Video
