@@ -45,6 +45,8 @@ Lukas Ruebbelke, of One Hungry Mind
 
 * Segment 5: [https://livestream.com/accounts/4894689/events/6592257/videos/141275837](https://livestream.com/accounts/4894689/events/6592257/videos/141275837)
 
+* Segment 6: [https://livestream.com/accounts/4894689/events/6592257/videos/141281102](https://livestream.com/accounts/4894689/events/6592257/videos/141281102)
+
 
 
 # Other
