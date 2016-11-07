@@ -13,3 +13,8 @@ Annie C:
 Thanks chris, I accidentally install angular-cli both globally and locally. I deleted the local and that took care of it
 
 --------------------------------------------------------------------------------
+
+
+Need to use two stars (`'**'`) for wildcard route.
+
+--------------------------------------------------------------------------------
