@@ -9,6 +9,11 @@ Lukas Ruebbelke, of One Hungry Mind
 * [email](lukas@onehungrymind.com)
 * [github](https://github.com/simpulton)
 
+# Prerequisites
+
+* Node ~> 6
+* npm ~> 3
+
 
 # Links
 
