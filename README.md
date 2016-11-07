@@ -23,6 +23,9 @@ Lukas Ruebbelke, of One Hungry Mind
 
 * Class Project: [https://github.com/onehungrymind/ng2-rest-app](https://github.com/onehungrymind/ng2-rest-app)
 
+* Some workshop snippets: http://bit.ly/workshop-snippets (expands to https://gist.github.com/simpulton/946bbda5bc64a9d326740d37523574c2)
+
+
 # Video
 
 * [Live plus Chat room](https://frontendmasters.com/live-event/angular-2-stable-live/)
@@ -38,8 +41,11 @@ Lukas Ruebbelke, of One Hungry Mind
 
 * Segment 3: [https://livestream.com/accounts/4894689/events/6592257/videos/141263100](https://livestream.com/accounts/4894689/events/6592257/videos/141263100)
 
+* Segment 4: [https://livestream.com/accounts/4894689/events/6592257/videos/141268481](https://livestream.com/accounts/4894689/events/6592257/videos/141268481)
+
 
 
 # Other
 
 * TypeScript Playground: http://www.typescriptlang.org/play/index.html
+* 147 colour names: http://www.colors.commutercreative.com/grid/
