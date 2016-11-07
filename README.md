@@ -49,3 +49,6 @@ Lukas Ruebbelke, of One Hungry Mind
 
 * TypeScript Playground: http://www.typescriptlang.org/play/index.html
 * 147 colour names: http://www.colors.commutercreative.com/grid/
+* Exploring ES6 by Axel Rauschmayer: https://leanpub.com/exploring-es6/
+* You Don't Know JS by Kyle Simpson: https://github.com/getify/You-Dont-Know-JS
+* Learning TypeScript: https://www.pluralsight.com/courses/typescript

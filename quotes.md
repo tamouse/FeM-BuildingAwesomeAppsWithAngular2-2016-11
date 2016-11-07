@@ -15,3 +15,7 @@ https://www.youtube.com/watch?v=wfMtDGfHWpA
 
 
 --------------------------------------------------------------------------------
+
+Lukas's recap of "What is Angular2?"
+
+(somewhere around 40:00)
