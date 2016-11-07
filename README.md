@@ -35,3 +35,11 @@ Lukas Ruebbelke, of One Hungry Mind
 * Segment 1: [https://livestream.com/accounts/4894689/events/6592257/videos/141255304](https://livestream.com/accounts/4894689/events/6592257/videos/141255304)
 
 * Segment 2: [https://livestream.com/accounts/4894689/events/6592257/videos/141260083](https://livestream.com/accounts/4894689/events/6592257/videos/141260083)
+
+* Segment 3: [https://livestream.com/accounts/4894689/events/6592257/videos/141263100](https://livestream.com/accounts/4894689/events/6592257/videos/141263100)
+
+
+
+# Other
+
+* TypeScript Playground: http://www.typescriptlang.org/play/index.html

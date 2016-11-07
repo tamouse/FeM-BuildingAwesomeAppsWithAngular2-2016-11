@@ -18,3 +18,33 @@ Thanks chris, I accidentally install angular-cli both globally and locally. I de
 Need to use two stars (`'**'`) for wildcard route.
 
 --------------------------------------------------------------------------------
+
+
+Ernest W 4 minutes ago
+For Tamra T I am having so many issues installing the Angular CLI ...we don't have to have it right?
+
+Ernest W: @ tamara I am dead in water then I get errors
+Ernest W: on install
+Daniel T: @Ernest: on windows?
+Ernest W: yep
+
+
+Ernest W:
+npm WARN optional Skipping failed optional dependency /chokidar/fsevents:
+npm WARN notsup Not compatible with your operating system or architecture: fsevents@1.0.15
+npm WARN @ngtools/webpack@1.1.4 requires a peer of @angular/compiler-cli@^2.1.0 but none was installed.
+npm WARN @angular/platform-server@2.1.2 requires a peer of @angular/core@2.1.2 but none was installed.
+npm WARN @angular/platform-server@2.1.2 requires a peer of @angular/common@2.1.2 but none was installed.
+npm WARN @angular/platform-server@2.1.2 requires a peer of @angular/compiler@2.1.2 but none was installed.
+npm WARN @angular/platform-server@2.1.2 requires a peer of @angular/platform-browser@2.1.2 but none was installed.
+npm WARN @angular/compiler-cli@0.6.4 requires a peer of @angular/compiler@2.0.2 but none was installed.
+npm WARN @angular/compiler-cli@0.6.4 requires a peer of @angular/platform-server@2.0.2 but none was installed.
+npm WARN @angular/compiler-cli@0.6.4 requires a peer of @angular/core@2.0.2 but none was installed.
+
+Daniel T: @Ernest try "npm install --no-optional"
+
+--------------------------------------------------------------------------------
+
+[ ] Follow up on how webpack does it's stuff under the hood
+
+--------------------------------------------------------------------------------
