@@ -29,4 +29,6 @@ Lukas Ruebbelke, of One Hungry Mind
 
 ### Day 1
 
-* Segmnet 1: [https://livestream.com/accounts/4894689/events/6592257/videos/141255304](https://livestream.com/accounts/4894689/events/6592257/videos/141255304)
+* Segment 1: [https://livestream.com/accounts/4894689/events/6592257/videos/141255304](https://livestream.com/accounts/4894689/events/6592257/videos/141255304)
+
+* Segment 2: [https://livestream.com/accounts/4894689/events/6592257/videos/141260083](https://livestream.com/accounts/4894689/events/6592257/videos/141260083)
