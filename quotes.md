@@ -16,6 +16,24 @@ https://www.youtube.com/watch?v=wfMtDGfHWpA
 
 --------------------------------------------------------------------------------
 
-Lukas's recap of "What is Angular2?"
+Lukas's summary of Angular 2
 
-(somewhere around 40:00)
+* Everything is a Class. You have an ES6 class, some metadata, and
+  everything is a variation on that.
+
+* Understand how ES6 class works.
+* Understand how to wrap it in metadata.
+* Understand binding, then you have a component.
+
+From there, it's a matter of stacking them together to get what you
+want. At the bottom of it all, is just a component.
+
+
+--------------------------------------------------------------------------------
+
+Lukas:
+
+"A component is an element. A directive is an attribute modifying a
+component."
+
+--------------------------------------------------------------------------------

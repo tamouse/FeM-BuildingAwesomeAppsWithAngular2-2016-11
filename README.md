@@ -43,6 +43,8 @@ Lukas Ruebbelke, of One Hungry Mind
 
 * Segment 4: [https://livestream.com/accounts/4894689/events/6592257/videos/141268481](https://livestream.com/accounts/4894689/events/6592257/videos/141268481)
 
+* Segment 5: [https://livestream.com/accounts/4894689/events/6592257/videos/141275837](https://livestream.com/accounts/4894689/events/6592257/videos/141275837)
+
 
 
 # Other
@@ -52,3 +54,4 @@ Lukas Ruebbelke, of One Hungry Mind
 * Exploring ES6 by Axel Rauschmayer: https://leanpub.com/exploring-es6/
 * You Don't Know JS by Kyle Simpson: https://github.com/getify/You-Dont-Know-JS
 * Learning TypeScript: https://www.pluralsight.com/courses/typescript
+* Pascal Precht (?)
