@@ -55,3 +55,5 @@ Lukas Ruebbelke, of One Hungry Mind
 * You Don't Know JS by Kyle Simpson: https://github.com/getify/You-Dont-Know-JS
 * Learning TypeScript: https://www.pluralsight.com/courses/typescript
 * Pascal Precht http://blog.thoughtram.io/
+  * [Dependency Injection in Angular 2 by thoughtram](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
+*
