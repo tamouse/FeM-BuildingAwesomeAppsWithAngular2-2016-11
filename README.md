@@ -54,4 +54,4 @@ Lukas Ruebbelke, of One Hungry Mind
 * Exploring ES6 by Axel Rauschmayer: https://leanpub.com/exploring-es6/
 * You Don't Know JS by Kyle Simpson: https://github.com/getify/You-Dont-Know-JS
 * Learning TypeScript: https://www.pluralsight.com/courses/typescript
-* Pascal Precht (?)
+* Pascal Precht http://blog.thoughtram.io/
