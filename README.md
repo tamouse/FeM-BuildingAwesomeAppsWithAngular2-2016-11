@@ -53,7 +53,7 @@ Lukas Ruebbelke, of One Hungry Mind
 
 * Segment 1: [https://livestream.com/accounts/4894689/events/6592257/videos/141341531](https://livestream.com/accounts/4894689/events/6592257/videos/141341531)
 
-* Segment 2: []()
+* Segment 2: [https://livestream.com/accounts/4894689/events/6592257/videos/141350626](https://livestream.com/accounts/4894689/events/6592257/videos/141350626)
 
 * Segment 3: []()
 

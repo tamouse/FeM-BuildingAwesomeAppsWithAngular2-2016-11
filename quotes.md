@@ -41,3 +41,8 @@ component."
 Marc G: "Lukas is an amazing guy"
 
 --------------------------------------------------------------------------------
+
+Lukas: So, just to beat this dead horse; and by that I mean "review,
+and reinforce concepts"
+
+--------------------------------------------------------------------------------
