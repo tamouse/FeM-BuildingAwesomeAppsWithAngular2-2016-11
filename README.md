@@ -55,7 +55,7 @@ Lukas Ruebbelke, of One Hungry Mind
 
 * Segment 2: [https://livestream.com/accounts/4894689/events/6592257/videos/141350626](https://livestream.com/accounts/4894689/events/6592257/videos/141350626)
 
-* Segment 3: []()
+* Segment 3: [https://livestream.com/accounts/4894689/events/6592257/videos/141367415](https://livestream.com/accounts/4894689/events/6592257/videos/141367415)
 
 * Segment 4: []()
 
@@ -80,4 +80,6 @@ Lukas Ruebbelke, of One Hungry Mind
 * [Angular Universal](https://universal.angular.io/)
 * [Preview for "Webpack Deep Dive with Kent C. Dodds"](https://www.facebook.com/FrontendMasters/videos/674236152752541/)
 * Upcoming [Workshops - Frontend Masters](https://frontendmasters.com/workshops/)
+* [Custom Form Controls in Angular 2 by thoughtram](http://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html)
+
 * ...
