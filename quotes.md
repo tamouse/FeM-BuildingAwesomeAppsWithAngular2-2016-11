@@ -31,9 +31,7 @@ want. At the bottom of it all, is just a component.
 
 --------------------------------------------------------------------------------
 
-Lukas:
-
-"A component is an element. A directive is an attribute modifying a
+Lukas: "A component is an element. A directive is an attribute modifying a
 component."
 
 --------------------------------------------------------------------------------
@@ -44,5 +42,9 @@ Marc G: "Lukas is an amazing guy"
 
 Lukas: So, just to beat this dead horse; and by that I mean "review,
 and reinforce concepts"
+
+--------------------------------------------------------------------------------
+
+Javier L: let clone = JSON.parse(JSON.stringify(obj))
 
 --------------------------------------------------------------------------------
