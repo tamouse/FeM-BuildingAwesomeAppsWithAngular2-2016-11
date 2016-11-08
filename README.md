@@ -78,4 +78,6 @@ Lukas Ruebbelke, of One Hungry Mind
 * [Dreams Do Come True Named Router Outlets in Angular 2 - One Hungry Mind](http://onehungrymind.com/named-router-outlets-in-angular-2/)
 * [Using Angular 2 Patterns in Angular 1.x Apps - Course by simpulton eggheadio](https://egghead.io/courses/using-angular-2-patterns-in-angular-1-x-apps)
 * [Angular Universal](https://universal.angular.io/)
+* [Preview for "Webpack Deep Dive with Kent C. Dodds"](https://www.facebook.com/FrontendMasters/videos/674236152752541/)
+* Upcoming [Workshops - Frontend Masters](https://frontendmasters.com/workshops/)
 * ...
