@@ -48,3 +48,9 @@ Daniel T: @Ernest try "npm install --no-optional"
 [ ] Follow up on how webpack does it's stuff under the hood
 
 --------------------------------------------------------------------------------
+
+
+Johannes B: when do we need to use attr ?
+
+Lukas (speaking): when you want to reference an attribute on an
+element that does not exist. Some examples given in the angular docs.
