@@ -17,7 +17,9 @@ Lukas Ruebbelke, of One Hungry Mind
 
 # Links
 
-* Slides: [http://onehungrymind.com/slides/fem-day-one.pdf](http://onehungrymind.com/slides/fem-day-one.pdf)
+* Slides:
+  * Day one: [http://onehungrymind.com/slides/fem-day-one.pdf](http://onehungrymind.com/slides/fem-day-one.pdf)
+  * Day two: [http://onehungrymind.com/slides/fem-day-two.pdf](http://onehungrymind.com/slides/fem-day-two.pdf)
 
 * NG-CLI app: [https://github.com/angular/angular-cli](https://github.com/angular/angular-cli) - install first!
 
