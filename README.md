@@ -38,25 +38,17 @@ Lukas Ruebbelke, of One Hungry Mind
 ### Day 1
 
 * Segment 1: [https://livestream.com/accounts/4894689/events/6592257/videos/141255304](https://livestream.com/accounts/4894689/events/6592257/videos/141255304)
-
 * Segment 2: [https://livestream.com/accounts/4894689/events/6592257/videos/141260083](https://livestream.com/accounts/4894689/events/6592257/videos/141260083)
-
 * Segment 3: [https://livestream.com/accounts/4894689/events/6592257/videos/141263100](https://livestream.com/accounts/4894689/events/6592257/videos/141263100)
-
 * Segment 4: [https://livestream.com/accounts/4894689/events/6592257/videos/141268481](https://livestream.com/accounts/4894689/events/6592257/videos/141268481)
-
 * Segment 5: [https://livestream.com/accounts/4894689/events/6592257/videos/141275837](https://livestream.com/accounts/4894689/events/6592257/videos/141275837)
-
 * Segment 6: [https://livestream.com/accounts/4894689/events/6592257/videos/141281102](https://livestream.com/accounts/4894689/events/6592257/videos/141281102)
 
 ### Day 2
 
 * Segment 1: [https://livestream.com/accounts/4894689/events/6592257/videos/141341531](https://livestream.com/accounts/4894689/events/6592257/videos/141341531)
-
 * Segment 2: [https://livestream.com/accounts/4894689/events/6592257/videos/141350626](https://livestream.com/accounts/4894689/events/6592257/videos/141350626)
-
 * Segment 3: [https://livestream.com/accounts/4894689/events/6592257/videos/141367415](https://livestream.com/accounts/4894689/events/6592257/videos/141367415)
-
 * Segment 4: [https://livestream.com/accounts/4894689/events/6592257/videos/141372963](https://livestream.com/accounts/4894689/events/6592257/videos/141372963)
 
 
