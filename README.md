@@ -70,5 +70,3 @@ Lukas Ruebbelke, of One Hungry Mind
 * [Custom Form Controls in Angular 2 by thoughtram](http://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html)
 * [Basic HTTP Interception](https://gist.github.com/d3viant0ne/9352109b16a01574f8f0e698fab20d1d)
 * [Angular 2 HTTP interceptors](https://blog.tomasandtomas.com/angular-2-http-interceptors-7e2d74b7f14e#.m4jzy8kje)
-
-* ...
